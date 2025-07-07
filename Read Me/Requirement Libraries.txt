@@ -7,3 +7,8 @@ pip install vosk
 pip install sounddevice
 pip install pyaudio
 pip install numpy
+
+
+# YOU ALSO NEED TO DOWNLOAD"vosk-model-small-en-us-0.15"
+#INSERT THAT "VOSK---0.15" FILE IN Friday-AI-main
+ Thank you
