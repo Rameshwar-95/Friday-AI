@@ -1,0 +1,24 @@
+# 🤖 FRIDAY AI
+
+FRIDAY is your **offline AI desktop assistant** inspired by Jarvis from Iron Man. It uses Text-to-Speech (TTS), Speech Recognition, and Automation tools to execute commands efficiently on your local machine without needing constant internet.
+
+---
+
+## ✨ **Features**
+
+- 🔊 **Natural Speech Responses** (TTS)
+- 🎙️ **Voice Command Recognition**
+- 💻 **Open Applications & Websites**
+- 🔍 **Perform Local Searches**
+- 📝 **Custom Command Automation**
+- 🛡️ **Offline & Private Operation**
+
+---
+
+## 🚀 **Getting Started**
+
+### **1. Clone this repository**
+
+```bash
+git clone https://github.com/yourusername/friday-ai.git
+cd friday-ai

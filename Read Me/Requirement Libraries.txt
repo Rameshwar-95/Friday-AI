@@ -1,0 +1,9 @@
+# RUN THIS COMMAND IN CMD
+
+pip install -r requirements.txt
+pip install pyttsx3
+pip install SpeechRecognition
+pip install vosk
+pip install sounddevice
+pip install pyaudio
+pip install numpy
